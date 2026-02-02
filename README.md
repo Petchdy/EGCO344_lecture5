@@ -1,2 +1,2 @@
-# EGCO344_lecture5
+# The Team Note-v1.0
 # initial raedme
